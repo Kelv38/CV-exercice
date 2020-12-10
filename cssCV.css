@@ -1,0 +1,50 @@
+
+
+.gauche>img{
+    width: 100px;
+    
+}
+
+
+body{
+    display: grid;
+    grid-template-columns: 33% 66%;
+     margin-left: 0px;
+     margin-top: 0px;
+    
+
+}
+
+.gauche{
+    background-color: azure;
+    padding: 15px;
+    
+
+}
+
+.droite{
+    background-color: antiquewhite;
+    padding: 15px;
+}
+
+
+
+
+{font-family: 'Overpass', sans-serif;
+}
+
+
+.Creative_director {
+  display: flex;
+    justify-content: center;
+}
+
+
+.Benjamin{
+  display: flex;
+    justify-content: center;
+}
+
+
+
+
