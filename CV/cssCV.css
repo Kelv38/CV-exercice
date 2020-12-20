@@ -1,0 +1,110 @@
+
+
+.gauche>img{
+    width: 100px;
+    
+}
+
+
+body{
+    display: grid;
+    grid-template-columns: 33% 66%;
+     margin-left: 0px;
+     margin-top: 0px;
+    
+
+}
+
+.gauche{
+    background-color: azure;
+    padding: 15px;
+    
+
+}
+
+.droite{
+    background-color: antiquewhite;
+    padding: 15px;
+}
+
+
+
+
+{font-family: 'Overpass', sans-serif;
+}
+
+
+.Creative_director {
+  display: flex;
+    justify-content: center;
+}
+
+
+.Benjamin{
+  display: flex;
+    justify-content: center;
+}
+
+.Education{
+  display: flex;
+    justify-content: center;
+}
+
+.bachelor{
+  display: flex;
+    justify-content: center;
+}
+
+.Master{
+  display: flex;
+    justify-content: center;
+}
+
+.Experience{
+  display: flex;
+    justify-content: center;
+}
+
+.Ubi{
+  display: flex;
+    justify-content: center;
+}
+
+.Bandai{
+  display: flex;
+    justify-content: center;
+}
+
+.Bethesda{
+  display: flex;
+    justify-content: center;
+}
+
+.sk_et_expertise{
+  display: flex;
+    justify-content: center;
+}
+
+.jauges_1{
+  display: flex;
+    justify-content: center;
+}
+.jauges_1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.HOBBIES{
+  display: flex;
+    justify-content: center;
+}
+
+.texte_1{
+  display: flex;
+    justify-content: center;
+}
+
+
+.kelvyn{
+    background-color: antiquewhite;
+}
